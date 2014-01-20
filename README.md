@@ -1,4 +1,4 @@
 3D-Things
 =========
 
-Collection of 3D printable objects I made.
+Collection of 3D printable objects I designed.
